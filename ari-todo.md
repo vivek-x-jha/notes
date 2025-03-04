@@ -1,5 +1,11 @@
 # Dotfiles TODO
 
+## Alfred
+
+1. Sync with [Vivek's Preferences](https://www.dropbox.com/scl/fi/w1dv49koke7bz2m8ltk0n/Alfred.alfredpreferences?rlkey=3af9nssetx5398yuvm03qyhkd&dl=0)
+1. Ensure copy buffer enabled
+1. Test workflows
+
 ## Hammerspoon
 
 Move hammerspoon config to ~/.config/
@@ -40,6 +46,8 @@ brew reinstall --cask --force 1password 1password-cli alfred alt-tab discord fig
 ### Hierarchy
 
 `Session` -> `Window` -> `Pane`
+
+Demonstrate basic aliases: `t`, `ta`, `tl`, `tks`, `tn`
 
 ### Core Plugins:
 
